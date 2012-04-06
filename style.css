@@ -1,0 +1,42 @@
+body {
+	margin: 16 px;
+	background-image:url('background.jpg');
+	background-repeat:repeat-x;
+	font-family: helvetica;
+	}
+	
+h3 {
+    font-size: 2em;
+    color: indigo;
+    height: 1.0em;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h4 {
+    font-size: 1.0em;
+    color: indigo;
+    height: 1.0em;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#welcome{
+	margin: 0 auto;
+}
+
+#background{
+    margin: 0 auto;
+    width: 960px;
+    height:100%;
+    padding: 10px 10px;
+}
+
+#survey, #results{
+    font-size: 1.0em;
+    margin:2em 10em 2em 10em;
+    text-align: left;
+    padding: 0.2em 5em 0.5em 5em;
+    border: 1px dashed red;
+	
+}
